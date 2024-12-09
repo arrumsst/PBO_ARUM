@@ -1,0 +1,50 @@
+{
+    "2": {
+        "id": "67562fa4e7d68",
+        "nama": "Pensil",
+        "harga": "2000",
+        "stok": "400"
+    },
+    "3": {
+        "id": "67564285027f8",
+        "nama": "Notebook Clasic",
+        "harga": "15000",
+        "stok": "204"
+    },
+    "4": {
+        "id": "6756430175b42",
+        "nama": "Set Marker Warna",
+        "harga": "83000",
+        "stok": "78"
+    },
+    "5": {
+        "id": "6756431c824bf",
+        "nama": "Penghapus Karet ",
+        "harga": "1500",
+        "stok": "200"
+    },
+    "6": {
+        "id": "6756435080a94",
+        "nama": "Buku Tulis Lucu",
+        "harga": "4000",
+        "stok": "389"
+    },
+    "7": {
+        "id": "6756436751e7f",
+        "nama": "Stabilo Pastel",
+        "harga": "6000",
+        "stok": "178"
+    },
+    "8": {
+        "id": "675643884580b",
+        "nama": "Penggaris Transparan",
+        "harga": "3000",
+        "stok": "300"
+    },
+    "9": {
+        "id": "675643a634852",
+        "nama": "Kotak Pensil Kulit",
+        "harga": "27000",
+        "stok": "100"
+    }
+}
